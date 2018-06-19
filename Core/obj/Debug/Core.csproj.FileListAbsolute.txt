@@ -1,0 +1,15 @@
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\Core.dll.config
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\Core.dll
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\Core.pdb
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\DAL.dll
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\EntityFramework.dll
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\DAL.pdb
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\DAL.dll.config
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\EntityFramework.xml
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\obj\Debug\Core.dll
+C:\Users\Devadmin\source\repos\WebArchitecture\Core\obj\Debug\Core.pdb
